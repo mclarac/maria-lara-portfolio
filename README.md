@@ -7,3 +7,10 @@ I'm Maria Lara, a 2nd-year student of the MISM-BIDA 16-month program at Heinz. B
 
 # What I hope to learn
 As I'm going to IBM as a data science consultant upon graduation, I want to hone my skills when delivering data-driven results to clients. I've seen how good narrative can be decisive regardless of how sound the analysis can be; if the client doesn't understand the value in what you did and why it matters to them, it's work lost in most cases. I'm confident this course will help me to achieve my goal. 
+
+# Assignments
+
+## Visualizing Government Debt
+January 30, 2022
+
+<iframe src="https://data.oecd.org/chart/6BmD" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BmD" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
