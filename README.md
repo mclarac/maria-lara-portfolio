@@ -13,4 +13,10 @@ As I'm going to IBM as a data science consultant upon graduation, I want to hone
 ## Visualizing Government Debt
 January 30, 2022
 
+### Part 1. Working with web-based visualization tools
 <iframe src="https://data.oecd.org/chart/6BmD" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BmD" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
+### Part 2. Working with Flourish
+The visualization below was made with [Flourish](https://flourish.studio) and shows the total debt as percentage of GDP by country and year. The data was downloaded from the [OECD webpage](https://data.oecd.org/gga/general-government-debt.htm).
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8567505"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
