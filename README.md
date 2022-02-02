@@ -12,3 +12,7 @@ As I'm going to IBM as a data science consultant upon graduation, I want to hone
 
 ## [Visualizing Government Debt](/government-debt.md)
 January 30, 2022
+
+# Demos
+## Tableau
+[Tableau Demo on Feb, 2][/tableau-demo.md]
