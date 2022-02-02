@@ -11,3 +11,5 @@ Alternate data visualization using Tableau. Original visualization can be found 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+[Go back to main page](/README.md)
