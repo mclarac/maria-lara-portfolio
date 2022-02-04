@@ -10,8 +10,8 @@ As I'm going to IBM as a data science consultant upon graduation, I want to hone
 
 # Assignments
 
-## [Visualizing Government Debt](/government-debt.md)
-January 30, 2022
+1. [Visualizing Government Debt](/government-debt.md) January 30, 2022
+2. [Critique by Design](/critique-by-design.md) February 7, 2022
 
 # Demos
 ## Tableau
