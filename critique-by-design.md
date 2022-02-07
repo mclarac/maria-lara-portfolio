@@ -29,7 +29,7 @@ I focused on different ways to represent data flows without all the messiness fr
 * Provide a way to show fewer categories for easier comparison across neighborhoods/boroughs.
 * Take advantage of additional features not used by the original data viz (such as geolocation).
 * As the data is enormous (more than 2 million records at the individual level), provide interactivity to let the user further explore the data.
-<img src="/wireframe.jpg" width="700">
+<img src="wireframe.jpg" width="700">
 
 ## Testing the solution
 I interviewed two friends, and both feel comfortable reading visualizations and extracting insights from them. So I figured they would help them quickly identify elements that introduced noise and confusion. To start with, it was clear what the visualization was about for both of them; either an analysis of where bike trips happen more frequently or an analysis of the most frequent routes for bikers (where they start and where they end). So that was promising. Additionally, the intent of the different sketches was also apparent, even if the data displayed in the drawings was not accurate. Person 1 said: *"Bikes are more intensively used in specific NY boroughs,"* and person two said: *"The most common starting for bike trips in NYC."* The latter was very positive because it seemed that, at a glance, the data visualizations chosen conveyed the main point straight and clearly; something I felt the original data viz failed to do so.
