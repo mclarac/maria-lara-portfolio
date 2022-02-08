@@ -30,7 +30,7 @@ I focused on different ways to represent data flows without all the messiness fr
 * Take advantage of additional features not used by the original data viz (such as geolocation).
 * As the data is enormous (more than 2 million records at the individual level), provide interactivity to let the user further explore the data.
 
-<img src="wireframe.jpg" width="700">
+<img src="wireframe.jpg" width="800">
 
 ## Testing the solution
 I interviewed two friends, and both feel comfortable reading visualizations and extracting insights from them. So I figured they would help them quickly identify elements that introduced noise and confusion. To start with, it was clear what the visualization was about for both of them; either an analysis of where bike trips happen more frequently or an analysis of the most frequent routes for bikers (where they start and where they end). So that was promising. Additionally, the intent of the different sketches was also apparent, even if the data displayed in the drawings was not accurate. Person 1 said: *"Bikes are more intensively used in specific NY boroughs,"* and person two said: *"The most common starting for bike trips in NYC."* The latter was very positive because it seemed that, at a glance, the data visualizations chosen conveyed the main point straight and clearly; something I felt the original data viz failed to do so.
@@ -49,7 +49,9 @@ From the answers above, I thought that maybe the best way to represent the data 
 
 ## Solution
 
-For my final visualization, I tried to find the middle ground between a Sankey diagram, showing data flow between two points, and a map showing the exact location of such issues. I felt that each visualization had its pros and cons, and with the Arc Map, I was able to have the best of both worlds. When I showed this viz to the interviewee that said the map felt unintuitive, his eyes opened, and he said that was exactly what he was talking about. Finally, this data viz also allowed me to remove all the colors since having the locations makes the color-coding unnecessary. 
+For my final visualization, I tried to find the middle ground between a Sankey diagram, showing data flow between two points, and a map showing the exact location of such points. I felt that each visualization had its pros and cons, and with the Arc Map, I was able to have the best of both worlds. I ulse tried to include a descriptive title conveying an insight for the general public and different labels and notes to help understand the visualization. Finally, this data viz also allowed me to remove all the colors since having the locations makes the color-coding unnecessary. 
+
+> When I showed this dataviz to the interviewee that said the map felt unintuitive, his eyes widened in amazement, and he said that was exactly what he was talking about. 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/8638354"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
