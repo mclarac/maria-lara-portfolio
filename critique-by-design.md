@@ -52,3 +52,5 @@ From the answers above, I thought that maybe the best way to represent the data 
 For my final visualization, I tried to find the middle ground between a Sankey diagram, showing data flow between two points, and a map showing the exact location of such issues. I felt that each visualization had its pros and cons, and with the Arc Map, I was able to have the best of both worlds. When I showed this viz to the interviewee that said the map felt unintuitive, his eyes opened, and he said that was exactly what he was talking about. Finally, this data viz also allowed me to remove all the colors since having the locations makes the color-coding unnecessary. 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/8638354"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[Go back to main page](/README.md)
