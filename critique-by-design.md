@@ -29,6 +29,7 @@ I focused on different ways to represent data flows without all the messiness fr
 * Provide a way to show fewer categories for easier comparison across neighborhoods/boroughs.
 * Take advantage of additional features not used by the original data viz (such as geolocation).
 * As the data is enormous (more than 2 million records at the individual level), provide interactivity to let the user further explore the data.
+
 <img src="wireframe.jpg" width="700">
 
 ## Testing the solution
@@ -44,3 +45,10 @@ In terms of the audiences, they replied it could be for either a transit authori
 * Person 2: *In the network graph, the edges are directional, which suggests commutes in a specific direction. I’d add a separate line for each.*
 
 From the answers above, I thought that maybe the best way to represent the data would be using the Sankey diagram. As mentioned at the beginning of this document, this chart type can be helpful when there are only a few categories. Additionally, eliminating the "fun shapes" might improve readability, unlike the chord diagram. Yet, during today's class exercise (2/7/22), my classmates said they disagreed with person 1 and that a heatmap might be the best way to represent this data. They also suggested that having two maps next to each other may help overcome the "lack of comparability" that the map had.
+
+
+## Solution
+
+For my final visualization, I tried to find the middle ground between a Sankey diagram, showing data flow between two points, and a map showing the exact location of such issues. I felt that each visualization had its pros and cons, and with the Arc Map, I was able to have the best of both worlds. When I showed this viz to the interviewee that said the map felt unintuitive, his eyes opened, and he said that was exactly what he was talking about. Finally, this data viz also allowed me to remove all the colors since having the locations makes the color-coding unnecessary. 
+
+<div class="flourish-embed flourish-map" data-src="visualisation/8638354"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
