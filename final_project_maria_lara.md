@@ -45,3 +45,5 @@ The sketches below show how I'll represent the datasets described above. Please 
 
 ### 4. Method and Medium
 The project will be implemented using [Shorthand](https://shorthand.com) to create an immersive narrative and either Tableau or Flourish for visualizations (and incorporate interactivity when applicable). After exploring the options offered by Shorthand, I think it will help me to elevate my story and introduce the tensions I'd like to, based on the readings from Chapter 8 of Good Charts. There's really not much I can say at this point.
+
+[Go back to main page](/README.md)
