@@ -67,17 +67,17 @@ The project will be implemented using [Shorthand](https://shorthand.com) to crea
 
 #### Protocol
 
-|Target audience | ML practitioners |
-|:---------------|:-----------------|
+|Target audience   | ML practitioners  |
+|:-----------------|:------------------|
 | Type of sampling | Non-probabilistic |
-| Sampling method | Convenience sampling |
+| Sampling method  | Convenience sampling |
 | Explanation | As an ML practitioner myself and BIDA student, I know several people close to me that are ML practitioners with relevant work experience, who I think will be good judges of the content of my project. Additionally, when applying ML algorithms in their work, I know they’ll be very interested in understanding why this happens and how they can prevent them. |
 
 #### Questionnaire
 
 |**Dimensions**         | **Questions included** |
 |:----------------------|:-----------------------|
-|Familiarity with presentation | 1 Liker-type |
+|Familiarity with presentation | 1 Likert-type |
 | Clarity of intent | 2 open-ended and 1 Likert-type | 
 | Credibility | 3 of semantic differential |
 | Relevance of information | 1 open-ended |
@@ -87,7 +87,7 @@ The project will be implemented using [Shorthand](https://shorthand.com) to crea
 | Gestalt | 2 open-ended and 1 Likert-type |
 | **Total** | **22** |
 
-For more details, please see the complete questionnaire [here](https://docs.google.com/document/d/1ob5e_DYpwsW9I0VsEnPEkfyOmZgjBbXtQkZStMcL7D0/edit?usp=sharing) - Note that it's accessible only to the CMU community
+For more details, please see the complete questionnaire [here](https://docs.google.com/document/d/1ob5e_DYpwsW9I0VsEnPEkfyOmZgjBbXtQkZStMcL7D0/edit?usp=sharing) - Note that the document is accessible only to the CMU community.
 
 #### Analysis
 
