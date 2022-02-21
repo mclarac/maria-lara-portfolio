@@ -12,7 +12,7 @@ As I'm going to IBM as a data science consultant upon graduation, I want to hone
 
 1. [Visualizing Government Debt](/government-debt.md) January 30, 2022
 2. [Critique by Design](/critique-by-design.md) February 7, 2022
-3. [Final Project Part I](/final_project_maria_lara.md) February 13, 2022
+3. [Final Project Part I and II](/final_project_maria_lara.md) February 13, 2022 (updated on Feb, 21)
 
 # Demos
 ## Tableau
