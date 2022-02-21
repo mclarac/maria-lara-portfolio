@@ -1,4 +1,11 @@
 # Final Project: Bias in AI and ML Algorithms
+
+Contents:
+1. [Part I](#part-i)
+2. [Part II](#part-ii)
+
+***
+
 ## Part I
 Sunday, February 13, 2022
 
@@ -45,5 +52,25 @@ The sketches below show how I'll represent the datasets described above. Please 
 
 ### 4. Method and Medium
 The project will be implemented using [Shorthand](https://shorthand.com) to create an immersive narrative and either Tableau or Flourish for visualizations (and incorporate interactivity when applicable). After exploring the options offered by Shorthand, I think it will help me to elevate my story and introduce the tensions I'd like to, based on the readings from Chapter 8 of Good Charts. There's really not much I can say at this point.
+
+## Part II
+
+### Storyboard
+
+<div class="flourish-embed" data-src="story/1144840"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+***
+
+### User research and interviews
+
+**Reader objective (revised)**: As an ML practitioner, I want to understand how we introduce biases in ML algorithms so that I can apply techniques and good practices to avoid them.
+
+**Protocol:**
+
+|Target audience | ML practitioners |
+|:---------------|:-----------------|
+| Type of sampling | Non-probabilistic |
+| Sampling method | Convenience sampling |
+| Explanation | As an ML practitioner myself and BIDA student, I know several people close to me that are ML practitioners with relevant work experience, who I think will be good judges of the content of my project. Additionally, when applying ML algorithms in their work, I know they’ll be very interested in understanding why this happens and how they can prevent them. |
 
 [Go back to main page](/README.md)
