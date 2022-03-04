@@ -3,6 +3,7 @@
 Contents:
 1. [Part I](#part-i)
 2. [Part II](#part-ii)
+3. [Part III](#part-iii)
 
 ***
 
@@ -52,6 +53,10 @@ The sketches below show how I'll represent the datasets described above. Please 
 
 ### 4. Method and Medium
 The project will be implemented using [Shorthand](https://shorthand.com) to create an immersive narrative and either Tableau or Flourish for visualizations (and incorporate interactivity when applicable). After exploring the options offered by Shorthand, I think it will help me to elevate my story and introduce the tensions I'd like to, based on the readings from Chapter 8 of Good Charts. There's really not much I can say at this point.
+
+[Go back to main page](/README.md) | [Part II](#part-ii) | [Part III](#part-iii)
+
+***
 
 ## Part II
 
@@ -126,7 +131,7 @@ The results are very positive and help me quickly assess the credibility of the 
 
 **Open-ended Questions**
 
-*CLarity of intent*
+*Clarity of intent*
 
 I asked respondents what they thought was the objective of the project and based on their responses, I realized that I'm not writing to ML practitioners wanting to apply de-biasing techniques in their algorithms. The answers were:
  
@@ -163,4 +168,23 @@ Finally, I asked them what change they would make to the storyline and the answe
 
 I loved all these recommendations and I am planning to include them all; I think addding these changes to the storyline can definitely make it more impactful.
 
-[Go back to main page](/README.md)
+[Go back to main page](/README.md) | [Part I](#part-i) | [Part III](#part-iii)
+
+***
+
+## Part III
+March 3, 2022
+
+Once I received the user feedback, I focused on changing the storyline to introduce some of the suggestions made by my interviewees. For example, in the streamlined version of my project, I start with a "shocking" example to grab the audience's attention. That also helped me get to the visuals quickly and not waste much time introducing the topic. Additionally, I tried to include either a short explanation or the main takeaway on my more extended version, so the reader knows what they're looking at and how it is relevant to the topic. I didn't change much in terms of the visualizations (as suggested by one interviewee) as I felt including legends to identify the series would've been redundant with the color-coding used in the titles.
+
+On the other hand, I worked on different ways to speak to my audience. My first thought was customizing the content for ML practitioners. Still, considering the presentation we had to do in class, I later thought about tweaking the content to talk to a broader and less-specialized audience. That entailed not using much jargon and not going into the details of how to debias the algorithms. Instead, I included at the very end a link to valuable resources for ML practitioners in case they want to dig deeper and get their hands dirty with the different debiasing techniques proposed by the scientific community. 
+
+*"Knowing your audience"* is how I'd summarized the journey when working on this project. That influenced how I defined the storyline, my project's specific contents, and the type of visuals I used throughout the presentation. Doing the user research was extremely helpful to understand better whether my storyline had the impact that I was intending. Also, identifying any gaps between my visuals and the contents was very important to find different ways to fill those.
+In general, I enjoyed the creation process and comparing my first sketches with my final result.
+
+### Final project Links
+
+1. [Streamlined version](https://carnegiemellon.shorthandstories.com/bias-ai-ml/index.html)
+2. [Complete version](https://carnegiemellon.shorthandstories.com/when-algorithms-failed-us/index.html)
+
+[Go back to main page](/README.md) | [Part I](#part-i) | [Part II](#part-ii)
