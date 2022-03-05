@@ -17,3 +17,34 @@ As I'm going to IBM as a data science consultant upon graduation, I want to hone
 # Demos
 ## Tableau
 1. [Tableau Demo](/tableau-demo.md) February 2, 2022
+
+# DataViz Collection
+My own creations
+
+## 1. Government Debt Among OECD Countries
+
+Click [here](/government-debt.md) to go to the creation process
+
+<div class="flourish-embed flourish-slope" data-src="visualisation/8567663" data-height="650px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## 2. NYC Bike Trips
+
+Click [here](/critique-by-design.md) to go to the creation process
+
+<div class="flourish-embed flourish-map" data-src="visualisation/8638354" data-height="650px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## 3. Bias in AI and ML
+
+Click [here](/final_project_maria_lara.md) to go to the creation process
+
+### Gender-based discrimination in job-related Ads
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8769054" data-height="650px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Assessing Gender Bias in Machine Translation 
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8753776" data-height="650px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Gender and Jobs in Online Image Searches 
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/8753925" data-height="650px"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
